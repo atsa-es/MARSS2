@@ -26,7 +26,7 @@
 <ul class="nav">
   <li><a href="#install">Install</a></li>
   <li><a href="#documentation">Documentation</a></li>
-  <li><a href="https://github.com/nwfsc-timeseries/MARSS/issues">Issues</a></li>
+  <li><a href="https://github.com/atsa-es/MARSS/issues">Issues</a></li>
   <li><a href="#cite">Citation</a></li>
   <li><a href="#pubs">Publications</a></li>
   <li><a href="#license">License</a></li>
@@ -38,7 +38,7 @@
 MARSS stands for Multivariate Auto-Regressive(1) State-Space. The MARSS package is an R package for estimating the parameters of linear MARSS models with Gaussian errors.  This class of model is extremely important in the study of linear stochastic dynamical systems, and these models are important in many different fields, including economics, engineering, genetics, physics and ecology.  The model class has different names in different fields, for example in some fields they are termed dynamic linear models (DLMs) or vector autoregressive (VAR) state-space models.  The MARSS package allows you to easily fit time-varying constrained and unconstrained MARSS models with or without covariates to multivariate time-series data via maximum-likelihood using primarily an EM algorithm.
 
 [![cran version](http://www.r-pkg.org/badges/version/MARSS)](https://cran.r-project.org/package=MARSS)
-[![github](https://img.shields.io/github/v/release/nwfsc-timeseries/MARSS?color=brightgreen&label=GitHub)](https://github.com/nwfsc-timeseries/MARSS/releases/latest)
+[![github](https://img.shields.io/github/v/release/nwfsc-timeseries/MARSS?color=brightgreen&label=GitHub)](https://github.com/atsa-es/MARSS/releases/latest)
 [![rstudio mirror downloads](http://cranlogs.r-pkg.org/badges/grand-total/MARSS?)](https://github.com/metacran/cranlogs.app)
 [![](https://cranlogs.r-pkg.org/badges/MARSS?color=FFD700)](https://www.r-pkg.org/pkg/MARSS)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
@@ -86,7 +86,7 @@ To install an R package from GitHub, you need to be able to build an R package o
 
 ### ISSUES and BUG REPORTS {#bugs}
 
-Issues? [https://github.com/nwfsc-timeseries/MARSS/issues](https://github.com/nwfsc-timeseries/MARSS/issues)
+Issues? [https://github.com/atsa-es/MARSS/issues](https://github.com/nwfsc-timeseries/MARSS/issues)
 
 ### CITATION  {#cite}
 
@@ -105,7 +105,7 @@ Type `citation("MARSS")` at the command line to get the most up to data citation
 
 ### PUBLICATIONS {#pubs}
 
-To see our publications using MARSS models, see the [Applied Time Series Analysis website](https://nwfsc-timeseries.github.io/).
+To see our publications using MARSS models, see the [Applied Time Series Analysis website](https://atsa-es.github.io/).
 
 
 ### NOAA Disclaimer
